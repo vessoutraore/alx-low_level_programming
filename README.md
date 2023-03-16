@@ -1,5 +1,7 @@
 # What is Low Level Programming
 
+![low-level_programming](https://user-images.githubusercontent.com/126578500/225755782-c495799e-93a0-47a5-b917-4bba80448979.png)
+
 A low-level programming language is a programming language that provides little or no abstraction from a computer's instruction set architecture—commands or functions in the language map that are structurally similar to processor's instructions. Generally, this refers to either machine code or assembly language.
 
 * TECHNOLOGIES USED : C programming, Graphic programming, Unix programming, Data Structures & algorithms, Reverse engineering & security.
@@ -57,3 +59,9 @@ At the end of this project, you are expected to be able to explain to anyone, wi
 * All your scripts should be exactly two lines long ($ wc -l file should print 2)
 * All your files should end with a new line
 * The first line of all your files should be exactly #!/bin/bash
+
+# Projects
+1. [0x00-hello_world][(https://github.com/vessoutraore/alx-system_engineering-devops/tree/master/0x00-shell_basics](https://github.com/vessoutraore/alx-low_level_programming/tree/master/0x00-hello_world))
+
+# Credits
+Collaborators are acknowledged within each project
