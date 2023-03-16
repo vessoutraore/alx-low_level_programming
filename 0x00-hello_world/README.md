@@ -51,4 +51,7 @@ At the end of this project, you are expected to be able to explain to anyone, wi
 
 [4-puts.c](https://github.com/vessoutraore/alx-low_level_programming/tree/master/0x00-hello_world/4-puts.c "4-puts.c"): Script that write a C program that prints exactly "Programming is like building a multilingual puzzle, followed by a new line. Use the function puts. You are not allowed to use printf. Your program should end with the value 0
 
-[5-printf.c](https://github.com/vessoutraore/alx-low_level_programming/tree/master/0x00-hello_world/5-printf.C "5-printf.c"): Script that write a C program that prints exactly with proper grammar, but the outcome is a piece of art, followed by a new line. Use the function printf. You are not allowed to use the function puts. Your program should return 0. Your program should compile without warning when using the -Wall gcc option
+[5-printf.c](https://github.com/vessoutraore/alx-low_level_programming/tree/master/0x00-hello_world/5-printf.c "5-printf.c"): Script that write a C program that prints exactly with proper grammar, but the outcome is a piece of art, followed by a new line. Use the function printf. You are not allowed to use the function puts. Your program should return 0. Your program should compile without warning when using the -Wall gcc option
+
+[6-size.c](https://github.com/vessoutraore/alx-low_level_programming/tree/master/0x00-hello_world/6-size.c "6.size.c"): Script that write Write a C program that prints the size of various types on the computer it is compiled and run on.
+You should produce the exact same output as in the example. Warnings are allowed. Your program should return 0. You might have to install the package libc6-dev-i386 on your Linux to test the -m32 gcc option
