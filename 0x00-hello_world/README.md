@@ -41,4 +41,6 @@ At the end of this project, you are expected to be able to explain to anyone, wi
 * All your files should end with a new line
 * The first line of all your files should be exactly #!/bin/bash
 
-[0-preprocessor](): script that runs a C file through the preprocessor and save the result into another file. The C file name will be saved in the variable $CFILE. The output should be saved in the file c
+[0-preprocessor](https://github.com/vessoutraore/alx-low_level_programming/blob/master/0x00-hello_world/0-preprocessor "0-preprocessor"): script that runs a C file through the preprocessor and save the result into another file. The C file name will be saved in the variable $CFILE. The output should be saved in the file c
+
+[0-preprocessor](https://github.com/vessoutraore/alx-low_level_programming/blob/master/0x00-hello_world/1-compiler "1-compiler"): Script that  that compiles a C file but does not link. The C file name will be saved in the variable $CFILE. The output file should be named the same as the C file, but with the extension .o instead of .c. Example: if the C file is main.c, the output file should be main.o
