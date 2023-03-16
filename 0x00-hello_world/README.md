@@ -41,10 +41,13 @@ At the end of this project, you are expected to be able to explain to anyone, wi
 * All your files should end with a new line
 * The first line of all your files should be exactly #!/bin/bash
 
-[0-preprocessor](https://github.com/vessoutraore/alx-low_level_programming/blob/master/0x00-hello_world/0-preprocessor "0-preprocessor"): script that runs a C file through the preprocessor and save the result into another file. The C file name will be saved in the variable $CFILE. The output should be saved in the file c
+[0-preprocessor](https://github.com/vessoutraore/alx-low_level_programming/tree/master/0x00-hello_world/0-preprocessor "0-preprocessor"): script that runs a C file through the preprocessor and save the result into another file. The C file name will be saved in the variable $CFILE. The output should be saved in the file c
 
-[1-compiler](https://github.com/vessoutraore/alx-low_level_programming/blob/master/0x00-hello_world/1-compiler "1-compiler"): Script that  that compiles a C file but does not link. The C file name will be saved in the variable $CFILE. The output file should be named the same as the C file, but with the extension .o instead of .c. Example: if the C file is main.c, the output file should be main.o
+[1-compiler](https://github.com/vessoutraore/alx-low_level_programming/tree/master/0x00-hello_world/1-compiler "1-compiler"): Script that  that compiles a C file but does not link. The C file name will be saved in the variable $CFILE. The output file should be named the same as the C file, but with the extension .o instead of .c. Example: if the C file is main.c, the output file should be main.o
 
-[2-assembler](https://github.com/vessoutraore/alx-low_level_programming/blob/master/0x00-hello_world/2-assembler "2-assembler"): Script that generates the assembly code of a C code and save it in an output file. The C file name will be saved in the variable $CFILE. The output file should be named the same as the C file, but with the extension .s instead of .c. Example: if the C file is main.c, the output file should be main.s
+[2-assembler](https://github.com/vessoutraore/alx-low_level_programming/tree/master/0x00-hello_world/2-assembler "2-assembler"): Script that generates the assembly code of a C code and save it in an output file. The C file name will be saved in the variable $CFILE. The output file should be named the same as the C file, but with the extension .s instead of .c. Example: if the C file is main.c, the output file should be main.s
 
-[3-name](https://github.com/vessoutraore/alx-low_level_programming/blob/master/0x00-hello_world/3-name "3-name"): Script that compiles a C file and creates an executable named cisfun. The C file name will be saved in the variable $CFILE
+[3-name](https://github.com/vessoutraore/alx-low_level_programming/tree/master/0x00-hello_world/3-name "3-name"): Script that compiles a C file and creates an executable named cisfun. The C file name will be saved in the variable $CFILE
+
+[4-puts.c](https://github.com/vessoutraore/alx-low_level_programming/tree/master/0x00-hello_world/4-puts.c "4-puts.c"): Script that write a C program that prints exactly "Programming is like building a multilingual puzzle, followed by a new line. Use the function puts. You are not allowed to use printf. Your program should end with the value 0
+
