@@ -61,7 +61,7 @@ At the end of this project, you are expected to be able to explain to anyone, wi
 * The first line of all your files should be exactly #!/bin/bash
 
 # Projects
-1. [0x00-hello_world][(https://github.com/vessoutraore/alx-system_engineering-devops/tree/master/0x00-shell_basics](https://github.com/vessoutraore/alx-low_level_programming/tree/master/0x00-hello_world)
+1. [0x00-hello_world](https://github.com/vessoutraore/alx-system_engineering-devops/tree/master/0x00-shell_basics](https://github.com/vessoutraore/alx-low_level_programming/tree/master/0x00-hello_world)
 
 # Credits
 Collaborators are acknowledged within each project
