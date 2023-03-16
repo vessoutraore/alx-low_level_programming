@@ -1,6 +1,6 @@
 # What is Low Level Programming
 
-![low-level_programming](https://user-images.githubusercontent.com/126578500/225755782-c495799e-93a0-47a5-b917-4bba80448979.png)
+![Features-of-C-Programming-Language](https://user-images.githubusercontent.com/126578500/225758194-9742610e-0d3f-4e21-9aeb-859a231edc8c.jpg)
 
 A low-level programming language is a programming language that provides little or no abstraction from a computer's instruction set architecture—commands or functions in the language map that are structurally similar to processor's instructions. Generally, this refers to either machine code or assembly language.
 
