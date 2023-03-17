@@ -2,7 +2,7 @@
 #include <time.h>
 #include <stdio.h>
 
-/*
+/**
  * main - entry point fonction
  * Return:always return 0 if the code is correct
  */
