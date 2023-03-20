@@ -1,26 +1,30 @@
-/*
- * File: 3-print_alphabets.c
- * Author : TRAORE Youssouf vessou
- * Inclusion of STL 
- */
-
 #include <stdio.h>
 
-/**
- * main - Is a principal function that prints the alphabet in lowercase, and then in uppercase.
- *
- * Return: Always 0 if the code is correct.
- */
-int main(void)
+void main()
+
 {
-	char letter;
 
-	for (letter = 'a'; letter <= 'z'; letter++)
-		putchar(letter);
-	for (letter = 'A'; letter <= 'Z'; letter++)
-		putchar(letter);
+        int ch;
+	clrscr();
 
-	putchar('\n');
+        printf(“Print all uppercase letters followed by all lowercase letters on the next line :\n”);
 
-	return (0);
+        /* print uppercase letters */
+
+        for (ch= ‘A’; ch<= ‘Z’; ch++)
+
+             putchar(ch);
+
+             putchar (‘\n’ ) ;
+
+             /* print lowercase letters */
+
+             for (ch= ‘a’; ch<= ‘z’; ch++)
+
+                  putchar(ch);
+
+                  putchar (‘\n’) ;
+
+                  getch();
+
 }
