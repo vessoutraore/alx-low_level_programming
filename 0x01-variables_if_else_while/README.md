@@ -33,3 +33,5 @@ At the end of this project, you are expected to be able to explain to anyone, wi
 * There should be no errors and no warnings during compilation
 * You are not allowed to use system
 * Your code should use the Betty style. It will be checked using betty-style.pl and betty-doc.pl
+
+[3-print_alphabets.c](https://github.com/vessoutraore/alx-low_level_programming/blob/master/0x01-variables_if_else_while/3-print_alphabets.c "3-print_alphabets.c"): A program that prints the alphabet in lowercase, and then in uppercase, followed by a new line.You can only use the putchar function (every other function (printf, puts, etc…) is forbidden). All your code should be in the main function. You can only use putchar three times in your code
