@@ -1,19 +1,22 @@
-// Inclusion de la librairie STL
-
-#include <stdio.h>
-#include <stdlib.h>
-
-/**
- * main - entry point and it is principal function 
- * Return: alway returns 0 when the code is work 
+/*
+ * File: 2-print_alphabet.c
+ * Auth: TRAORE Youssouf vessou
  */
 
+#include <stdio.h>
+
+/**
+ * main - Prints the alphabet in lowercase.
+ *
+ * Return: Always 0.
+ */
 int main(void)
 {
-	char a;
+	char letter;
 
-	for (a = 'a'; a <= 'z' ; a++)
-		putchar(a);
+	for (letter = 'a'; letter <= 'z'; letter++)
+		putchar(letter);
+
 	putchar('\n');
-	return (0);
+
 }
