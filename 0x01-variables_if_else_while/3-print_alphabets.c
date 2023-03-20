@@ -1,26 +1,18 @@
-/*
- * File: 3-print_alphabets.c
- * Inclusion of STL
- */
-
 #include <stdio.h>
-
 /**
- * main - Prints the alphabet in lowercase, and then in uppercase.
+ * main - entry point
  *
- * Return: Always 0.
+ * Return: alway returns 0
+ *
  */
 int main(void)
 {
-	char letter;
+	char a;
 
-	for (letter = 'a'; letter <= 'z'; letter++)
-		putchar(letter);
-
-	for (letter = 'A'; letter <= 'Z'; letter++)
-		putchar(letter);
-
+	for (a = 'a'; a <= 'z' ; a++)
+		putchar(a);
+	for (a = 'A'; a <= 'Z'; a++)
+		putchar(a);
 	putchar('\n');
-
 	return (0);
 }
