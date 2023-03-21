@@ -1,9 +1,7 @@
-/* 
- * Programme that prints _putch , followed by a new line 
- * 
- * The program should return 0
+/*
+ * File: 0-putchar.c
+ * Auth: vessoutraore
  *
- * Inclusion of main.h file
  */
 
 #include "main.h"
@@ -11,9 +9,8 @@
 /**
  * main - Prints "_putchar" followed by a new line.
  *
- * Return - Always 0 if the correct is correct.
+ * Return: Always 0.
  */
-
 int main(void)
 {
 	_putchar('_');
