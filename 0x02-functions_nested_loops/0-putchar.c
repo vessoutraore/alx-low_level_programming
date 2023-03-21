@@ -1,18 +1,18 @@
-/** 
-* Programme that prints _putch , followed by a new line 
-* 
-* The program should return 0
-*
-* Inclusion of main.h file
-*/
+/* 
+ * Programme that prints _putch , followed by a new line 
+ * 
+ * The program should return 0
+ *
+ * Inclusion of main.h file
+ */
 
 #include "main.h"
 
 /**
-* main - Principal function that print "_putch" followed by a new line .
-*
-* Return - Always 0 if the correct is correct.
-*/
+ * main - Prints "_putchar" followed by a new line.
+ *
+ * Return - Always 0 if the correct is correct.
+ */
 
 int main(void)
 {
