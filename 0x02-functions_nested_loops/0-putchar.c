@@ -15,12 +15,15 @@
 
 int main (void)
 {
-	_putch("_");
-	_putch("p");
-	_putch("u");
-	_putch("t");
-	_putch("c");
-	_putch("h");
+	_putchar("_");
+	_putchar("p");
+	_putchar("u");
+	_putchar("t");
+	_putchar("c");
+	_putchar("h");
+	_putchar("a");
+	_putchar("r");
+	_putchar("\n");
 
 	return 0;
 }
