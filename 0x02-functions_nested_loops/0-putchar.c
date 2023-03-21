@@ -2,10 +2,11 @@
  * Programme that prints _putch , followed by a new line 
  * 
  * The program should return 0
+ *
+ * Inclusion of main.h file
  */
 
-#include <stdio.h>
-#include <stdlib.h>
+#include "main.h"
 
 /**
  * main - Principal function that print "_putch" followed by a new line .
