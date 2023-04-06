@@ -1,3 +1,5 @@
+#include "main.h"
+#include <stdio.>
 /**
   * _sqrt - Calculates natural square root
   * @n: number to calculate the square root
